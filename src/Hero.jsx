@@ -5,9 +5,8 @@ const Hero = () => {
     <section className='hero'>
       <div className="hero-center">
         <div className="hero-title">
-            <h1>Projects CMS</h1>
-            <p>React, developed by Facebook, has emerged as a leading JavaScript library for building user interfaces, particularly for single-page applications.
-                 It allows developers to create dynamic and responsive web applications with a component-based architecture.</p>
+            <h1>Projects</h1>
+            
         </div>
         <div className="img-container">
             <img  src={heroImg} alt="heroImg"/>
