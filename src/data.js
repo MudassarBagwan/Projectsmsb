@@ -24,4 +24,9 @@ const projects = [
     url: 'https://imagefindermsb.netlify.app/',
     image: './assets/find_images.JPG',
   },
+  {
+    title: 'Fruit and Electronics Store',
+    url: 'https://temp-store-tau.vercel.app/',
+    image: './assets/store.JPG',
+  },
 ];
